@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\bin\Debug\Genrics_And_Genrics_methods.exe.config
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\bin\Debug\Genrics_And_Genrics_methods.exe
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\bin\Debug\Genrics_And_Genrics_methods.pdb
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\obj\Debug\Genrics_And_Genrics_methods.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\obj\Debug\Genrics_And_Genrics_methods.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\obj\Debug\Genrics_And_Genrics_methods.exe
+C:\Users\chirag mali\source\repos\Genrics_And_Genrics_methods\Genrics_And_Genrics_methods\obj\Debug\Genrics_And_Genrics_methods.pdb

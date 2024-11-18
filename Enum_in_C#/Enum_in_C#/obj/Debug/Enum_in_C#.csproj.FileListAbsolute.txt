@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\bin\Debug\Enum_in_C#.exe.config
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\bin\Debug\Enum_in_C#.exe
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\bin\Debug\Enum_in_C#.pdb
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\obj\Debug\Enum_in_C#.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\obj\Debug\Enum_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\obj\Debug\Enum_in_C#.exe
+C:\Users\chirag mali\source\repos\Enum_in_C#\Enum_in_C#\obj\Debug\Enum_in_C#.pdb

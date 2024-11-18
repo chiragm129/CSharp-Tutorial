@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\bin\Debug\Params_Keyword.exe.config
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\bin\Debug\Params_Keyword.exe
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\bin\Debug\Params_Keyword.pdb
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.exe
+C:\Users\chirag mali\source\repos\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.pdb

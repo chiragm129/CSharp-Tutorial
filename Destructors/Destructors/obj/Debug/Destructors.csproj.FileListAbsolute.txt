@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Destructors\Destructors\bin\Debug\Destructors.exe.config
+C:\Users\chirag mali\source\repos\Destructors\Destructors\bin\Debug\Destructors.exe
+C:\Users\chirag mali\source\repos\Destructors\Destructors\bin\Debug\Destructors.pdb
+C:\Users\chirag mali\source\repos\Destructors\Destructors\obj\Debug\Destructors.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Destructors\Destructors\obj\Debug\Destructors.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Destructors\Destructors\obj\Debug\Destructors.exe
+C:\Users\chirag mali\source\repos\Destructors\Destructors\obj\Debug\Destructors.pdb

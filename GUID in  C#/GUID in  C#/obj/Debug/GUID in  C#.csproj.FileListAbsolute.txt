@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\bin\Debug\GUID in  C#.exe.config
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\bin\Debug\GUID in  C#.exe
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\bin\Debug\GUID in  C#.pdb
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\obj\Debug\GUID in  C#.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\obj\Debug\GUID in  C#.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\obj\Debug\GUID in  C#.exe
+C:\Users\chirag mali\source\repos\GUID in  C#\GUID in  C#\obj\Debug\GUID in  C#.pdb

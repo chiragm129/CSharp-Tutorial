@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+C:\Users\chirag mali\source\repos\encapsulation\encapsulation\obj\Debug\encapsulation.pdb

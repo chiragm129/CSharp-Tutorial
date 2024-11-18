@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Dictionary_Generic _Collection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09385B15-7802-4127-9958-F9E613E42C0B}|Dictionary_Generic _Collection\\Dictionary_Generic _Collection.csproj|c:\\users\\chirag mali\\source\\repos\\dictionary_generic _collection\\dictionary_generic _collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09385B15-7802-4127-9958-F9E613E42C0B}|Dictionary_Generic _Collection\\Dictionary_Generic _Collection.csproj|solutionrelative:dictionary_generic _collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09385B15-7802-4127-9958-F9E613E42C0B}|Dictionary_Generic _Collection\\Dictionary_Generic _Collection.csproj|c:\\users\\chirag mali\\source\\repos\\dictionary_generic _collection\\dictionary_generic _collection\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09385B15-7802-4127-9958-F9E613E42C0B}|Dictionary_Generic _Collection\\Dictionary_Generic _Collection.csproj|solutionrelative:dictionary_generic _collection\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Dictionary_Generic _Collection\\Dictionary_Generic _Collection\\Employee.cs",
+              "RelativeDocumentMoniker": "Dictionary_Generic _Collection\\Employee.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Dictionary_Generic _Collection\\Dictionary_Generic _Collection\\Employee.cs",
+              "RelativeToolTip": "Dictionary_Generic _Collection\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:58:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Dictionary_Generic _Collection\\Dictionary_Generic _Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary_Generic _Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Dictionary_Generic _Collection\\Dictionary_Generic _Collection\\Program.cs",
+              "RelativeToolTip": "Dictionary_Generic _Collection\\Program.cs",
+              "ViewState": "AQIAACMAAACAMzMzMzMvwDQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:30:36.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

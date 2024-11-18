@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\bin\Debug\Similarity_between_AbstractClass&Interface.exe.config
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\bin\Debug\Similarity_between_AbstractClass&Interface.exe
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\bin\Debug\Similarity_between_AbstractClass&Interface.pdb
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\obj\Debug\Similarity_between_AbstractClass&Interface.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\obj\Debug\Similarity_between_AbstractClass&Interface.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\obj\Debug\Similarity_between_AbstractClass&Interface.exe
+C:\Users\chirag mali\source\repos\Similarity_between_AbstractClass&Interface\Similarity_between_AbstractClass&Interface\obj\Debug\Similarity_between_AbstractClass&Interface.pdb

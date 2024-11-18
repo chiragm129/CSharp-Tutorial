@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\bin\Debug\Dictionary_Generic _Collection.exe.config
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\bin\Debug\Dictionary_Generic _Collection.exe
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\bin\Debug\Dictionary_Generic _Collection.pdb
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\obj\Debug\Dictionary_Generic _Collection.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\obj\Debug\Dictionary_Generic _Collection.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\obj\Debug\Dictionary_Generic _Collection.exe
+C:\Users\chirag mali\source\repos\Dictionary_Generic _Collection\Dictionary_Generic _Collection\obj\Debug\Dictionary_Generic _Collection.pdb

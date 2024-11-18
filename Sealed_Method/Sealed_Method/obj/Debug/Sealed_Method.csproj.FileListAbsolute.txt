@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\bin\Debug\Sealed_Method.exe.config
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\bin\Debug\Sealed_Method.exe
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\bin\Debug\Sealed_Method.pdb
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.exe
+C:\Users\chirag mali\source\repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.pdb

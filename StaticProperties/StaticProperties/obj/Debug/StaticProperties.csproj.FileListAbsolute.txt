@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\bin\Debug\StaticProperties.exe.config
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\bin\Debug\StaticProperties.exe
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\bin\Debug\StaticProperties.pdb
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\obj\Debug\StaticProperties.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\obj\Debug\StaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\obj\Debug\StaticProperties.exe
+C:\Users\chirag mali\source\repos\StaticProperties\StaticProperties\obj\Debug\StaticProperties.pdb

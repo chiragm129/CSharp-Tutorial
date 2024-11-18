@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\bin\Debug\Multi_Threading.exe.config
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\bin\Debug\Multi_Threading.exe
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\bin\Debug\Multi_Threading.pdb
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.exe
+C:\Users\chirag mali\source\repos\Multi_Threading\Multi_Threading\obj\Debug\Multi_Threading.pdb

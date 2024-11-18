@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\bin\Debug\Dependecy _Injection_Using _Properties.exe.config
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\bin\Debug\Dependecy _Injection_Using _Properties.exe
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\bin\Debug\Dependecy _Injection_Using _Properties.pdb
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\obj\Debug\Dependecy _Injection_Using _Properties.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\obj\Debug\Dependecy _Injection_Using _Properties.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\obj\Debug\Dependecy _Injection_Using _Properties.exe
+C:\Users\chirag mali\source\repos\Dependecy _Injection_Using _Properties\Dependecy _Injection_Using _Properties\obj\Debug\Dependecy _Injection_Using _Properties.pdb

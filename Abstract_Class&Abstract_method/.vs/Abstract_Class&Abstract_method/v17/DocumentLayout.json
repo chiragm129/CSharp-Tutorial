@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Abstract_Class\u0026Abstract_method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F62EB133-AF37-4FB9-BDDF-87DBE3FB1BC1}|Abstract_Class\u0026Abstract_method\\Abstract_Class\u0026Abstract_method.csproj|c:\\users\\chirag mali\\source\\repos\\abstract_class\u0026abstract_method\\abstract_class\u0026abstract_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62EB133-AF37-4FB9-BDDF-87DBE3FB1BC1}|Abstract_Class\u0026Abstract_method\\Abstract_Class\u0026Abstract_method.csproj|solutionrelative:abstract_class\u0026abstract_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Abstract_Class\u0026Abstract_method\\Abstract_Class\u0026Abstract_method\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract_Class\u0026Abstract_method\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Abstract_Class\u0026Abstract_method\\Abstract_Class\u0026Abstract_method\\Program.cs",
+              "RelativeToolTip": "Abstract_Class\u0026Abstract_method\\Program.cs",
+              "ViewState": "AQIAADgAAACAAAAAAAAswBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:36:21.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\bin\Debug\FormatExceptionProgram.exe.config
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\bin\Debug\FormatExceptionProgram.exe
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\bin\Debug\FormatExceptionProgram.pdb
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\obj\Debug\FormatExceptionProgram.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\obj\Debug\FormatExceptionProgram.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\obj\Debug\FormatExceptionProgram.exe
+C:\Users\chirag mali\source\repos\FormatExceptionProgram\FormatExceptionProgram\obj\Debug\FormatExceptionProgram.pdb

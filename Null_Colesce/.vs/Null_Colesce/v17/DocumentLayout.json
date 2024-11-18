@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Null_Colesce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E54A23-0053-4957-BA1B-A6BBFAA5D51E}|Null_Colesce\\Null_Colesce.csproj|c:\\users\\chirag mali\\source\\repos\\null_colesce\\null_colesce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E54A23-0053-4957-BA1B-A6BBFAA5D51E}|Null_Colesce\\Null_Colesce.csproj|solutionrelative:null_colesce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Null_Colesce\\Null_Colesce\\Program.cs",
+              "RelativeDocumentMoniker": "Null_Colesce\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Null_Colesce\\Null_Colesce\\Program.cs",
+              "RelativeToolTip": "Null_Colesce\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:32:32.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

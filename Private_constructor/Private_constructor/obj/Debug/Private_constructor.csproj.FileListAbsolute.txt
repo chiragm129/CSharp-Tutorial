@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\bin\Debug\Private_constructor.exe.config
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\bin\Debug\Private_constructor.exe
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\bin\Debug\Private_constructor.pdb
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\obj\Debug\Private_constructor.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\obj\Debug\Private_constructor.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\obj\Debug\Private_constructor.exe
+C:\Users\chirag mali\source\repos\Private_constructor\Private_constructor\obj\Debug\Private_constructor.pdb

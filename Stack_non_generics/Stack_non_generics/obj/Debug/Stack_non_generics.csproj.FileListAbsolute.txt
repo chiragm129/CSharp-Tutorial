@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\bin\Debug\Stack_non_generics.exe.config
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\bin\Debug\Stack_non_generics.exe
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\bin\Debug\Stack_non_generics.pdb
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\obj\Debug\Stack_non_generics.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\obj\Debug\Stack_non_generics.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\obj\Debug\Stack_non_generics.exe
+C:\Users\chirag mali\source\repos\Stack_non_generics\Stack_non_generics\obj\Debug\Stack_non_generics.pdb

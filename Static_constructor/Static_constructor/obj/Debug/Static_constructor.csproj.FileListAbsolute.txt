@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\bin\Debug\Static_constructor.exe.config
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\bin\Debug\Static_constructor.exe
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\bin\Debug\Static_constructor.pdb
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\obj\Debug\Static_constructor.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\obj\Debug\Static_constructor.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\obj\Debug\Static_constructor.exe
+C:\Users\chirag mali\source\repos\Static_constructor\Static_constructor\obj\Debug\Static_constructor.pdb

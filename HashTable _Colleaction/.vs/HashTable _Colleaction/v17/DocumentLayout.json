@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\HashTable _Colleaction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E84550F-32F9-4E4F-B83D-6066D507D3F2}|HashTable _Colleaction\\HashTable _Colleaction.csproj|c:\\users\\chirag mali\\source\\repos\\hashtable _colleaction\\hashtable _colleaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E84550F-32F9-4E4F-B83D-6066D507D3F2}|HashTable _Colleaction\\HashTable _Colleaction.csproj|solutionrelative:hashtable _colleaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\HashTable _Colleaction\\HashTable _Colleaction\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable _Colleaction\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\HashTable _Colleaction\\HashTable _Colleaction\\Program.cs",
+              "RelativeToolTip": "HashTable _Colleaction\\Program.cs",
+              "ViewState": "AQIAACkAAAAAmZmZmZkdwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:36:14.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

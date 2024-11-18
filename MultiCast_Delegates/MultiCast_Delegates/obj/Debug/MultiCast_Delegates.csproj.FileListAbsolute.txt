@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\bin\Debug\MultiCast_Delegates.exe.config
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\bin\Debug\MultiCast_Delegates.exe
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\bin\Debug\MultiCast_Delegates.pdb
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\obj\Debug\MultiCast_Delegates.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\obj\Debug\MultiCast_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\obj\Debug\MultiCast_Delegates.exe
+C:\Users\chirag mali\source\repos\MultiCast_Delegates\MultiCast_Delegates\obj\Debug\MultiCast_Delegates.pdb

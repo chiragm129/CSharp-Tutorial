@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\bin\Debug\List_Generic_Collection.exe.config
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\bin\Debug\List_Generic_Collection.exe
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\bin\Debug\List_Generic_Collection.pdb
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.exe
+C:\Users\chirag mali\source\repos\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.pdb

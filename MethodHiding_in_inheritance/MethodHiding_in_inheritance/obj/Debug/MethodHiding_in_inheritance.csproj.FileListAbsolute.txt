@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\bin\Debug\MethodHiding_in_inheritance.exe.config
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\bin\Debug\MethodHiding_in_inheritance.exe
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\bin\Debug\MethodHiding_in_inheritance.pdb
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\obj\Debug\MethodHiding_in_inheritance.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\obj\Debug\MethodHiding_in_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\obj\Debug\MethodHiding_in_inheritance.exe
+C:\Users\chirag mali\source\repos\MethodHiding_in_inheritance\MethodHiding_in_inheritance\obj\Debug\MethodHiding_in_inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\bin\Debug\Abstract_Properties.exe.config
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\bin\Debug\Abstract_Properties.exe
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\bin\Debug\Abstract_Properties.pdb
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\obj\Debug\Abstract_Properties.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\obj\Debug\Abstract_Properties.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\obj\Debug\Abstract_Properties.exe
+C:\Users\chirag mali\source\repos\Abstract_Properties\Abstract_Properties\obj\Debug\Abstract_Properties.pdb

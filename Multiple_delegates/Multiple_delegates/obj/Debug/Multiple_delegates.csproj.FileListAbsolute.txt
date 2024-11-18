@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\bin\Debug\Multiple_delegates.exe.config
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\bin\Debug\Multiple_delegates.exe
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\bin\Debug\Multiple_delegates.pdb
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\obj\Debug\Multiple_delegates.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\obj\Debug\Multiple_delegates.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\obj\Debug\Multiple_delegates.exe
+C:\Users\chirag mali\source\repos\Multiple_delegates\Multiple_delegates\obj\Debug\Multiple_delegates.pdb

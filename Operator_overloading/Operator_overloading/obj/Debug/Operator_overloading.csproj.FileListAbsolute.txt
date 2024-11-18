@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\bin\Debug\Operator_overloading.exe.config
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\bin\Debug\Operator_overloading.exe
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\bin\Debug\Operator_overloading.pdb
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\obj\Debug\Operator_overloading.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\obj\Debug\Operator_overloading.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\obj\Debug\Operator_overloading.exe
+C:\Users\chirag mali\source\repos\Operator_overloading\Operator_overloading\obj\Debug\Operator_overloading.pdb

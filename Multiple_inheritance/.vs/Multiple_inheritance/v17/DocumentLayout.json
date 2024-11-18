@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Multiple_inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE120420-3FD4-48DD-9991-65FC5C45D9A3}|Multiple_inheritance\\Multiple_inheritance.csproj|c:\\users\\chirag mali\\source\\repos\\multiple_inheritance\\multiple_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE120420-3FD4-48DD-9991-65FC5C45D9A3}|Multiple_inheritance\\Multiple_inheritance.csproj|solutionrelative:multiple_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Multiple_inheritance\\Multiple_inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Multiple_inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Multiple_inheritance\\Multiple_inheritance\\Program.cs",
+              "RelativeToolTip": "Multiple_inheritance\\Program.cs",
+              "ViewState": "AQIAADUAAADgMjMzMzMtwD8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:10:40.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

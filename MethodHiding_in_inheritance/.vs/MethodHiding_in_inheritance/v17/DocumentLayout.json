@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\MethodHiding_in_inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7334B007-A64B-4E13-955E-08F7FB478BE6}|MethodHiding_in_inheritance\\MethodHiding_in_inheritance.csproj|c:\\users\\chirag mali\\source\\repos\\methodhiding_in_inheritance\\methodhiding_in_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7334B007-A64B-4E13-955E-08F7FB478BE6}|MethodHiding_in_inheritance\\MethodHiding_in_inheritance.csproj|solutionrelative:methodhiding_in_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5D9F59-1860-4D9E-AA13-01499A3D60FB}|method _hiding2\\method _hiding2.csproj|C:\\Users\\chirag mali\\source\\repos\\MethodHiding_in_inheritance\\method _hiding2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5D9F59-1860-4D9E-AA13-01499A3D60FB}|method _hiding2\\method _hiding2.csproj|solutionrelative:method _hiding2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\MethodHiding_in_inheritance\\method _hiding2\\Program.cs",
+              "RelativeDocumentMoniker": "method _hiding2\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\MethodHiding_in_inheritance\\method _hiding2\\Program.cs",
+              "RelativeToolTip": "method _hiding2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:32:17.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\MethodHiding_in_inheritance\\MethodHiding_in_inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "MethodHiding_in_inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\MethodHiding_in_inheritance\\MethodHiding_in_inheritance\\Program.cs",
+              "RelativeToolTip": "MethodHiding_in_inheritance\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAmZmZmZkJwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:08:22.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

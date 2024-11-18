@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\bin\Debug\Abstract_Class&Abstract_method.exe.config
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\bin\Debug\Abstract_Class&Abstract_method.exe
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\bin\Debug\Abstract_Class&Abstract_method.pdb
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\obj\Debug\Abstract_Class&Abstract_method.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\obj\Debug\Abstract_Class&Abstract_method.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\obj\Debug\Abstract_Class&Abstract_method.exe
+C:\Users\chirag mali\source\repos\Abstract_Class&Abstract_method\Abstract_Class&Abstract_method\obj\Debug\Abstract_Class&Abstract_method.pdb

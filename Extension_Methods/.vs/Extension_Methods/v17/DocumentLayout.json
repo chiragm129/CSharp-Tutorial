@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE057A-8D56-4160-87C1-99EA0485E5CC}|Extension_Methods\\Extension_Methods.csproj|C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\extension_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE057A-8D56-4160-87C1-99EA0485E5CC}|Extension_Methods\\Extension_Methods.csproj|solutionrelative:extension_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE057A-8D56-4160-87C1-99EA0485E5CC}|Extension_Methods\\Extension_Methods.csproj|C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\extension_methods\\mystaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE057A-8D56-4160-87C1-99EA0485E5CC}|Extension_Methods\\Extension_Methods.csproj|solutionrelative:extension_methods\\mystaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE057A-8D56-4160-87C1-99EA0485E5CC}|Extension_Methods\\Extension_Methods.csproj|c:\\users\\chirag mali\\source\\repos\\extension_methods\\extension_methods\\testextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE057A-8D56-4160-87C1-99EA0485E5CC}|Extension_Methods\\Extension_Methods.csproj|solutionrelative:extension_methods\\testextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\Extension_Methods\\TestExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Extension_Methods\\TestExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\Extension_Methods\\TestExtensionMethod.cs",
+              "RelativeToolTip": "Extension_Methods\\TestExtensionMethod.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:23:50.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStaticClass.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\Extension_Methods\\MyStaticClass.cs",
+              "RelativeDocumentMoniker": "Extension_Methods\\MyStaticClass.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\Extension_Methods\\MyStaticClass.cs",
+              "RelativeToolTip": "Extension_Methods\\MyStaticClass.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:15:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\Extension_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Extension_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Extension_Methods\\Extension_Methods\\Program.cs",
+              "RelativeToolTip": "Extension_Methods\\Program.cs",
+              "ViewState": "AQIAAAMAAABgZmZmZmYkwBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:45:01.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

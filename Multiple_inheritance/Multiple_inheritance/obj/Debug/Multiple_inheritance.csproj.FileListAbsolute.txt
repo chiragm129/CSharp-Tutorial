@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\bin\Debug\Multiple_inheritance.exe.config
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\bin\Debug\Multiple_inheritance.exe
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\bin\Debug\Multiple_inheritance.pdb
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\obj\Debug\Multiple_inheritance.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\obj\Debug\Multiple_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\obj\Debug\Multiple_inheritance.exe
+C:\Users\chirag mali\source\repos\Multiple_inheritance\Multiple_inheritance\obj\Debug\Multiple_inheritance.pdb

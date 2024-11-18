@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\obj\Debug\classes And Object.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\obj\Debug\classes And Object.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\bin\Debug\classes And Object.exe.config
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\bin\Debug\classes And Object.exe
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\bin\Debug\classes And Object.pdb
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\obj\Debug\classes And Object.exe
+C:\Users\chirag mali\source\repos\classes And Object\classes And Object\obj\Debug\classes And Object.pdb

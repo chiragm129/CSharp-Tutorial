@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\bin\Debug\copy_constructor.exe.config
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\bin\Debug\copy_constructor.exe
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\bin\Debug\copy_constructor.pdb
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\obj\Debug\copy_constructor.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\obj\Debug\copy_constructor.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\obj\Debug\copy_constructor.exe
+C:\Users\chirag mali\source\repos\copy_constructor\copy_constructor\obj\Debug\copy_constructor.pdb

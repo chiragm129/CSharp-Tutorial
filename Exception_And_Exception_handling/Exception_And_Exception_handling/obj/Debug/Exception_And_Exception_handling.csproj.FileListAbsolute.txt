@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\bin\Debug\Exception_And_Exception_handling.exe.config
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\bin\Debug\Exception_And_Exception_handling.exe
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\bin\Debug\Exception_And_Exception_handling.pdb
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\obj\Debug\Exception_And_Exception_handling.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\obj\Debug\Exception_And_Exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\obj\Debug\Exception_And_Exception_handling.exe
+C:\Users\chirag mali\source\repos\Exception_And_Exception_handling\Exception_And_Exception_handling\obj\Debug\Exception_And_Exception_handling.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Try_with_muliple_catchBlock_And_Finally_Block\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}|Try_with_muliple_catchBlock_And_Finally_Block\\Try_with_muliple_catchBlock_And_Finally_Block.csproj|c:\\users\\chirag mali\\source\\repos\\try_with_muliple_catchblock_and_finally_block\\try_with_muliple_catchblock_and_finally_block\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}|Try_with_muliple_catchBlock_And_Finally_Block\\Try_with_muliple_catchBlock_And_Finally_Block.csproj|solutionrelative:try_with_muliple_catchblock_and_finally_block\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Try_with_muliple_catchBlock_And_Finally_Block\\Try_with_muliple_catchBlock_And_Finally_Block\\Program.cs",
+              "RelativeDocumentMoniker": "Try_with_muliple_catchBlock_And_Finally_Block\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Try_with_muliple_catchBlock_And_Finally_Block\\Try_with_muliple_catchBlock_And_Finally_Block\\Program.cs",
+              "RelativeToolTip": "Try_with_muliple_catchBlock_And_Finally_Block\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:52:34.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

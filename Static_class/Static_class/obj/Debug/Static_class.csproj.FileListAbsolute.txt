@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Static_class\Static_class\bin\Debug\Static_class.exe.config
+C:\Users\chirag mali\source\repos\Static_class\Static_class\bin\Debug\Static_class.exe
+C:\Users\chirag mali\source\repos\Static_class\Static_class\bin\Debug\Static_class.pdb
+C:\Users\chirag mali\source\repos\Static_class\Static_class\obj\Debug\Static_class.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Static_class\Static_class\obj\Debug\Static_class.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Static_class\Static_class\obj\Debug\Static_class.exe
+C:\Users\chirag mali\source\repos\Static_class\Static_class\obj\Debug\Static_class.pdb

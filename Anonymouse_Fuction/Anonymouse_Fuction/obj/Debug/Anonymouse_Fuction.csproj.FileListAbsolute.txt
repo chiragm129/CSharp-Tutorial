@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\bin\Debug\Anonymouse_Fuction.exe.config
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\bin\Debug\Anonymouse_Fuction.exe
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\bin\Debug\Anonymouse_Fuction.pdb
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\obj\Debug\Anonymouse_Fuction.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\obj\Debug\Anonymouse_Fuction.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\obj\Debug\Anonymouse_Fuction.exe
+C:\Users\chirag mali\source\repos\Anonymouse_Fuction\Anonymouse_Fuction\obj\Debug\Anonymouse_Fuction.pdb

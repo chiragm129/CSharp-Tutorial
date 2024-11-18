@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\bin\Debug\Interface_Inheritance.exe.config
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\bin\Debug\Interface_Inheritance.exe
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\bin\Debug\Interface_Inheritance.pdb
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.exe
+C:\Users\chirag mali\source\repos\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.pdb

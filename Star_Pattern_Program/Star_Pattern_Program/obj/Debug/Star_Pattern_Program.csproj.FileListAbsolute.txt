@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\bin\Debug\Star_Pattern_Program.exe.config
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\bin\Debug\Star_Pattern_Program.exe
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\bin\Debug\Star_Pattern_Program.pdb
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\obj\Debug\Star_Pattern_Program.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\obj\Debug\Star_Pattern_Program.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\obj\Debug\Star_Pattern_Program.exe
+C:\Users\chirag mali\source\repos\Star_Pattern_Program\Star_Pattern_Program\obj\Debug\Star_Pattern_Program.pdb

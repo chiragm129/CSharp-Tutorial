@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Dependecy _Injection_Using _Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50262BE-C276-47FD-B285-2C66DA151C3D}|Dependecy _Injection_Using _Properties\\Dependecy _Injection_Using _Properties.csproj|c:\\users\\chirag mali\\source\\repos\\dependecy _injection_using _properties\\dependecy _injection_using _properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50262BE-C276-47FD-B285-2C66DA151C3D}|Dependecy _Injection_Using _Properties\\Dependecy _Injection_Using _Properties.csproj|solutionrelative:dependecy _injection_using _properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Dependecy _Injection_Using _Properties\\Dependecy _Injection_Using _Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Dependecy _Injection_Using _Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Dependecy _Injection_Using _Properties\\Dependecy _Injection_Using _Properties\\Program.cs",
+              "RelativeToolTip": "Dependecy _Injection_Using _Properties\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAABQvRgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:41:27.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

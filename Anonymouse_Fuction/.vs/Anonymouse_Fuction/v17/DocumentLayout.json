@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Anonymouse_Fuction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73ABF17D-ED65-4BFF-A843-4EF4BB56F018}|Anonymouse_Fuction\\Anonymouse_Fuction.csproj|c:\\users\\chirag mali\\source\\repos\\anonymouse_fuction\\anonymouse_fuction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ABF17D-ED65-4BFF-A843-4EF4BB56F018}|Anonymouse_Fuction\\Anonymouse_Fuction.csproj|solutionrelative:anonymouse_fuction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Anonymouse_Fuction\\Anonymouse_Fuction\\Program.cs",
+              "RelativeDocumentMoniker": "Anonymouse_Fuction\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Anonymouse_Fuction\\Anonymouse_Fuction\\Program.cs",
+              "RelativeToolTip": "Anonymouse_Fuction\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:18:00.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

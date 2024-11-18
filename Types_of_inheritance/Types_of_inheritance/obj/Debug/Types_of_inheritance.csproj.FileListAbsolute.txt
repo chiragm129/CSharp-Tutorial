@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\bin\Debug\Types_of_inheritance.exe.config
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\bin\Debug\Types_of_inheritance.exe
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\bin\Debug\Types_of_inheritance.pdb
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\obj\Debug\Types_of_inheritance.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\obj\Debug\Types_of_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\obj\Debug\Types_of_inheritance.exe
+C:\Users\chirag mali\source\repos\Types_of_inheritance\Types_of_inheritance\obj\Debug\Types_of_inheritance.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Constructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31231F8F-954A-4BB3-B25C-AF284C3A9C3D}|Constructors\\Constructors.csproj|c:\\users\\chirag mali\\source\\repos\\constructors\\constructors\\employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31231F8F-954A-4BB3-B25C-AF284C3A9C3D}|Constructors\\Constructors.csproj|solutionrelative:constructors\\employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employes.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Constructors\\Constructors\\Employes.cs",
+              "RelativeDocumentMoniker": "Constructors\\Employes.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Constructors\\Constructors\\Employes.cs",
+              "RelativeToolTip": "Constructors\\Employes.cs",
+              "ViewState": "AQIAACAAAADAzMzMzMwmwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:52:19.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

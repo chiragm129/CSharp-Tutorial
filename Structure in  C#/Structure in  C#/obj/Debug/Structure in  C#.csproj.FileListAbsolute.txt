@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\bin\Debug\Structure in  C#.exe.config
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\bin\Debug\Structure in  C#.exe
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\bin\Debug\Structure in  C#.pdb
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\obj\Debug\Structure in  C#.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\obj\Debug\Structure in  C#.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\obj\Debug\Structure in  C#.exe
+C:\Users\chirag mali\source\repos\Structure in  C#\Structure in  C#\obj\Debug\Structure in  C#.pdb

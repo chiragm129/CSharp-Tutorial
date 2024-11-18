@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\IS_VS_AS_Keyword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771C32D4-41DF-4192-8536-063593334B23}|IS_VS_AS_Keyword\\IS_VS_AS_Keyword.csproj|c:\\users\\chirag mali\\source\\repos\\is_vs_as_keyword\\is_vs_as_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771C32D4-41DF-4192-8536-063593334B23}|IS_VS_AS_Keyword\\IS_VS_AS_Keyword.csproj|solutionrelative:is_vs_as_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\IS_VS_AS_Keyword\\IS_VS_AS_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "IS_VS_AS_Keyword\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\IS_VS_AS_Keyword\\IS_VS_AS_Keyword\\Program.cs",
+              "RelativeToolTip": "IS_VS_AS_Keyword\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:42:26.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

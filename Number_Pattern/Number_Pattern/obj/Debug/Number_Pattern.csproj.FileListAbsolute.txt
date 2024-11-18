@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\obj\Debug\Number_Pattern.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\obj\Debug\Number_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\bin\Debug\Number_Pattern.exe.config
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\bin\Debug\Number_Pattern.exe
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\bin\Debug\Number_Pattern.pdb
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\obj\Debug\Number_Pattern.exe
+C:\Users\chirag mali\source\repos\Number_Pattern\Number_Pattern\obj\Debug\Number_Pattern.pdb

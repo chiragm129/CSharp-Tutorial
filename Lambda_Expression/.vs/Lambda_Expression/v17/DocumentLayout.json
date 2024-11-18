@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Lambda_Expression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F550F6-96BD-4064-B359-6C3736B9CBF5}|Lambda_Expression\\Lambda_Expression.csproj|c:\\users\\chirag mali\\source\\repos\\lambda_expression\\lambda_expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F550F6-96BD-4064-B359-6C3736B9CBF5}|Lambda_Expression\\Lambda_Expression.csproj|solutionrelative:lambda_expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Lambda_Expression\\Lambda_Expression\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda_Expression\\Program.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Lambda_Expression\\Lambda_Expression\\Program.cs",
+              "RelativeToolTip": "Lambda_Expression\\Program.cs",
+              "ViewState": "AQIAAA4AAABgZmZmZmY2wBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:19:57.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

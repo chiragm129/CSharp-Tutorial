@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Reg&amp;Login_WebApi_Using _EF.props" />
+</Project>

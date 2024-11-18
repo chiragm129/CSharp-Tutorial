@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try_with_muliple_catchBlock_And_Finally_Block", "Try_with_muliple_catchBlock_And_Finally_Block\Try_with_muliple_catchBlock_And_Finally_Block.csproj", "{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBD83EE-ACBE-4CC9-A4A5-DB879E786DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBC18E2-8AC6-456D-AF2B-D31C03EA452B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\bin\Debug\Static_and_instanceMembers.exe.config
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\bin\Debug\Static_and_instanceMembers.exe
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\bin\Debug\Static_and_instanceMembers.pdb
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\obj\Debug\Static_and_instanceMembers.csproj.AssemblyReference.cache
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\obj\Debug\Static_and_instanceMembers.csproj.CoreCompileInputs.cache
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\obj\Debug\Static_and_instanceMembers.exe
+C:\Users\chirag mali\source\repos\Static_and_instanceMembers\Static_and_instanceMembers\obj\Debug\Static_and_instanceMembers.pdb
